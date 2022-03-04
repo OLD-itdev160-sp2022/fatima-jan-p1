@@ -1,5 +1,5 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin : auto 30px;
 
 }
@@ -56,4 +56,15 @@ p {
     font-size: larger;
     padding-left: 20px;
 }
+footer{
+	width: 100%;
+	text-align: center;
+	padding: 30px 0;;
+}
+footer h4{
+	margin-bottom: 25px;
+	margin-top: 60px;
+	font-size: 10px;
+}
+
 

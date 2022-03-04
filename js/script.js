@@ -79,3 +79,12 @@
     writePackageInfo(nihari);
 
 }());
+//Footer Output not using IIFE//
+var user = 'Fatima Recipee Blog ';
+var email = ' fatimahnseer@gmail.com';
+
+var info = user + email;
+var infoEl = document.getElementById('footer-name');
+
+infoEl.textContent = info;
+
